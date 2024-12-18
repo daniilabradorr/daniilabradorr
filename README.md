@@ -12,7 +12,7 @@
 
 ## Sobre mi
 
-- ⭐ Github Started ⭐ 
+- 🏗 Becario en Servicios Técnicos (Industria 4.0) 📈 
 - 📲 Web Full Stack developer student
 - 🎥 Te enseño mi viaje en el mundo de la Programación, Inversiones y Desarrollo Personal en [Youtube](https://youtube.com/DanielLabradorBenito?sub_confirmation=1) (+100 subs)
 - ✏️ Tengo un pequeño blog en Linekdin pasate a verlo [Blog en Linkedin](https://www.linkedin.com/pulse/descubre-rowyio-la-revoluci%C3%B3n-del-desarrollo-low-code-daniel-6ca8f/?trackingId=eAroOzwuRCuonUF8WZe9Pw%3D%3D)

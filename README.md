@@ -25,7 +25,7 @@
 <td width="50%">
 <h3 align="center">PROYECTOS DEL MASTER FULL STACK</h3>
 <div align="center">
-<a href="https://github.com/daniilabradorr/fullstack-dev-master.git" target="_blank"><img src="https://imgur.com/5cEUY21.jpg" width="400" alt="Master Full Stack Projects"></a>
+<a href="https://github.com/daniilabradorr/fullstack-dev-master.git" target="_blank"><img src="https://imgur.com/ONlJ8OM.png" width="400" alt="Master Full Stack Projects"></a>
 <p>
 <a href="https://github.com/daniilabradorr/fullstack-dev-master.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">

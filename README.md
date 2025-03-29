@@ -25,7 +25,7 @@
 <td width="50%">
 <h3 align="center">PROYECTOS DEL MASTER FULL STACK</h3>
 <div align="center">
-<a href="https://github.com/daniilabradorr/fullstack-dev-master.git" target="_blank"><img src="https://imgur.com/ONlJ8OM.png" width="400" alt="Master Full Stack Projects"></a>
+<a href="https://github.com/daniilabradorr/fullstack-dev-master.git" target="_blank"><img src="https://imgur.com/ONlJ8OM.png" width="400" height="auto" alt="Master Full Stack Projects"></a>
 <p>
 <a href="https://github.com/daniilabradorr/fullstack-dev-master.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -43,7 +43,7 @@
                <br>
 <h3 align="center">PROYECTOS DE INTERNSHIP FULL STACK</h3>
 <div align="center">                                       
-<a href="https://github.com/daniilabradorr/fullstack-internship-2024-2025.git" target="_blank"><img src="https://imgur.com/ZDbukK5.jpg" width="400" alt="Internship Full Stack Projects"></a>
+<a href="https://github.com/daniilabradorr/fullstack-internship-2024-2025.git" target="_blank"><img src="https://imgur.com/X6R2OJM.jpg" width="400" height="auto" alt="Internship Full Stack Projects"></a>
 <br>
 <p>
 <a href="https://github.com/daniilabradorr/fullstack-internship-2024-2025.git" target="_blank">

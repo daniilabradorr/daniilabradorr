@@ -23,37 +23,37 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">PYTHON Ejercicios/Proyectos</h3>
+<h3 align="center">PROYECTOS DEL MASTER FULL STACK</h3>
 <div align="center">
-<a href="(https://github.com/daniilabradorr/PYTHON)" target="_blank"><img src="https://imgur.com/5cEUY21.jpg" width="400" alt="PYTHON Ejercicios/Proyectos"></a>
+<a href="https://github.com/daniilabradorr/fullstack-dev-master.git" target="_blank"><img src="https://imgur.com/5cEUY21.jpg" width="400" alt="Master Full Stack Projects"></a>
 <p>
-<a href="https://github.com/daniilabradorr/PYTHON" target="_blank">
+<a href="https://github.com/daniilabradorr/fullstack-dev-master.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://www.youtube.com/@DanielLabradorBenito" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Ejericios realizados con Python <strong>Miniproyectos y proyectos desde cero</strong> - En este repositorio verás gran cantidad de ejericios para practicar python y proyectos muy interesantes con librerias por ejemplo NLTK, GTTS, etc. Todo <strong>GRATUITO y disponible</strong> con todo el código para que puedas verlo perfectamente.</p>
+<p>Proyectos realizados en el máster de Desarrollo Web Full Stack, donde se incluyen temas como diseño de base de datos, desarrollo backend con Django, y más.</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
                <br>
-<h3 align="center">DJANGO Ejercicios/Proyectos</h3>
+<h3 align="center">PROYECTOS DE INTERNSHIP FULL STACK</h3>
 <div align="center">                                       
-<a href="https://github.com/daniilabradorr/DJANGO" target="_blank"><img src="https://imgur.com/ZDbukK5.jpg" width="400" alt="DJANGO Ejercicios/Proyectos"></a>
+<a href="https://github.com/daniilabradorr/fullstack-internship-2024-2025.git" target="_blank"><img src="https://imgur.com/ZDbukK5.jpg" width="400" alt="Internship Full Stack Projects"></a>
 <br>
 <p>
-<a href="https://github.com/daniilabradorr/DJANGO" target="_blank">
+<a href="https://github.com/daniilabradorr/fullstack-internship-2024-2025.git" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://www.youtube.com/@DanielLabradorBenito" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Aquí encontrarás una colección de proyectos y ejercicios <strong>IMPRESCINDIBLES</strong> donde exploro el poder de Django 🐍 para desarrollar aplicaciones web modernas y funcionales. Desde conceptos básicos hasta proyectos más avanzados, este espacio está dedicado a compartir conocimientos, experimentar con nuevas ideas, y seguir creciendo como desarrollador.</p>
+<p>Proyectos realizados durante mi internship Full Stack Developer. Aprende sobre herramientas, frameworks, y proyectos reales de desarrollo.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
